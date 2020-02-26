@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\acer\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\acer\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\acer\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\acer\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\acer\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
