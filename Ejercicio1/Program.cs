@@ -20,7 +20,7 @@ namespace Ejercicio1
             v3 = int.Parse(Console.ReadLine());
             int suma = v1 + v2 + v3;
 
-            Console.WriteLine("La suma es " + suma);
+            Console.WriteLine("El resultado es " + suma);
 
             Console.ReadLine();
 
