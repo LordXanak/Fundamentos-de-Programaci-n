@@ -21,9 +21,6 @@ namespace Ejercicio1
             int suma = v1 + v2 + v3;
 
             Console.WriteLine("El resultado es " + suma);
-
-            Console.ReadLine();
-
             Console.ReadLine();
         }
     }
